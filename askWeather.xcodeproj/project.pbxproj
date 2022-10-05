@@ -16,6 +16,7 @@
 		F0656C2428E9C2DF00315574 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0656C2228E9C2DF00315574 /* LaunchScreen.storyboard */; };
 		F0656C2F28EA0ED600315574 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0656C2E28EA0ED600315574 /* WeatherManager.swift */; };
 		F0656C3128EA205600315574 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0656C3028EA205600315574 /* WeatherData.swift */; };
+		F0656C3328EA31F300315574 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0656C3228EA31F300315574 /* WeatherModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F0656C2528E9C2DF00315574 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0656C2E28EA0ED600315574 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		F0656C3028EA205600315574 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		F0656C3228EA31F300315574 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				F0656C2E28EA0ED600315574 /* WeatherManager.swift */,
 				F0656C3028EA205600315574 /* WeatherData.swift */,
+				F0656C3228EA31F300315574 /* WeatherModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				F0656C1928E9C2DD00315574 /* ViewController.swift in Sources */,
 				F0656C1528E9C2DD00315574 /* AppDelegate.swift in Sources */,
 				F0656C2F28EA0ED600315574 /* WeatherManager.swift in Sources */,
+				F0656C3328EA31F300315574 /* WeatherModel.swift in Sources */,
 				F0656C1F28E9C2DD00315574 /* askWeather.xcdatamodeld in Sources */,
 				F0656C3128EA205600315574 /* WeatherData.swift in Sources */,
 				F0656C1728E9C2DD00315574 /* SceneDelegate.swift in Sources */,
